@@ -1,0 +1,13 @@
+(water table mount)
+(Machine)
+(  vendor: Sainsmart)
+(  model: 3030 Prover)
+(  description: 3-axis desktop cnc)
+(T1 D=3.175 CR=0 - ZMIN=-3.3 - flat end mill)
+(***THIS FILE DOES NOT CONTAIN NC CODE***)
+(When using Fusion for Personal Use, the feedrate of rapid)
+(moves is reduced to match the feedrate of cutting moves,)
+(which can increase machining time. Unrestricted rapid moves)
+(are available with a Fusion Subscription.)
+
+(Load tool number 1 and subprogram water table mount_1_T1)
